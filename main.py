@@ -1,5 +1,2 @@
-print ('Hallo, world!')
-a = 1
-b = 2
-c = a + b
-print (c)
+name = input("What is your name? ")
+print(f"Hello {name}")
